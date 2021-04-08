@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Segmenting text to Enhanced Thai Character Cluster (ETCC)
 Python implementation by Wannaphong Phatthiyaphaibun

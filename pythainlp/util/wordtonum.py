@@ -1,5 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
+﻿"""
 Convert number in words to a computable number value
 
 First version of the code adapted from Korakot Chaovavanich's notebook

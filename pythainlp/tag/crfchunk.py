@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from typing import Dict, List, Tuple, Union
 from pycrfsuite import Tagger as CRFTagger
 from pythainlp.corpus import path_pythainlp_corpus, thai_stopwords

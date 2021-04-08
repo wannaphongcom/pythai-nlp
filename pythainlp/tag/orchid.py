@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Data preprocessing for ORCHID corpus
 """

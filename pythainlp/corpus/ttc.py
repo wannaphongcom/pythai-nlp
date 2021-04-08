@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai Textbook Corpus (TTC) word frequency
 

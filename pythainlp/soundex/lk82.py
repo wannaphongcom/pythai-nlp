@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai soundex - LK82 system
 

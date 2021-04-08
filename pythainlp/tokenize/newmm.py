@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Dictionary-based maximal matching word segmentation, constrained with
 Thai Character Cluster (TCC) boundaries.

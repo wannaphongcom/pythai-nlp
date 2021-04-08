@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai collation (sort according to Thai dictionary order)
 Simple implementation using regular expressions

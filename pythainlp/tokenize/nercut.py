@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 nercut 0.1
 

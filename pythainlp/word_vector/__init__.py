@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 thai2fit - Thai word vector.
 

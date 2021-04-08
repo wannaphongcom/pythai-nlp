@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*
 """
 Wrapper for AttaCut - Fast and Reasonably Accurate Word Tokenizer for Thai
 

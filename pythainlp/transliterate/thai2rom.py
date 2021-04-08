@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Romanization of Thai words based on machine-learnt engine ("thai2rom")
 """

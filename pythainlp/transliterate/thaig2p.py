@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai Grapheme-to-Phoneme (Thai G2P)
 GitHub : https://github.com/wannaphong/thai-g2p

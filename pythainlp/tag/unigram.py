@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Unigram Part-Of-Speech tagger
 """

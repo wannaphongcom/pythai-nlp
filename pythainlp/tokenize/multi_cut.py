@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Multi cut -- Thai word segmentation with maximum matching. The original source
 code is from Korakot Chaovavanich.

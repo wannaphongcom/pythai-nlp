@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Tokenizers at different level of linguistic analysis.
 """

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Spell out time to Thai words.
 

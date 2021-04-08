@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Tool for create word list
 code is from Korakot Chaovavanich.

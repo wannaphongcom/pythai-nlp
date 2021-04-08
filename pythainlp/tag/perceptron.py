@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Perceptron part-of-speech tagger
 """

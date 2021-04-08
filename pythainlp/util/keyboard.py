@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Functions related to keyboard layout.
 """

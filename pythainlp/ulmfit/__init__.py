@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Universal Language Model Fine-tuning for Text Classification (ULMFiT).
 

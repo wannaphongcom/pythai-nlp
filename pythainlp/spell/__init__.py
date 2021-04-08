@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Spell checking and spelling correction.
 """

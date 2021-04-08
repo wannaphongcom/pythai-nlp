@@ -1,5 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
+﻿"""
 Utility functions, like date conversion and digit conversion
 """
 

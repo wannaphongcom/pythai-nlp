@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 __all__ = [
     "PYTHAINLP_DEFAULT_DATA_DIR",
     "get_full_data_path",

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Wrapper for PyICU word segmentation. This wrapper module uses
 :class:`icu.BreakIterator` with Thai as :class:`icu.Local`

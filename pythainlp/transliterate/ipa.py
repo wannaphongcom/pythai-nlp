@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Transliterating text to International Phonetic Alphabet (IPA)
 Using epitran

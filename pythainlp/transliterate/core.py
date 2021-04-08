@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 DEFAULT_ROMANIZE_ENGINE = "royin"
 DEFAULT_TRANSLITERATE_ENGINE = "thaig2p"
 DEFAULT_PRONUNCIATE_ENGINE = "w2p"

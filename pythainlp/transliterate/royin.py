@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 The Royal Thai General System of Transcription (RTGS)
 is the official system for rendering Thai words in the Latin alphabet.

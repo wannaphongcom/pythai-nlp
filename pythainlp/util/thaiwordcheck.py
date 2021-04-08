@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Check if a word is a "native Thai word"
 

@@ -1,5 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
+﻿"""
 The implementation of tokenizer accorinding to Thai Character Clusters (TCCs)
 rules purposed by `Theeramunkong et al. 2000. \
     <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.59.2548>`_

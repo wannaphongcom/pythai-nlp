@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai Word-to-Phoneme (Thai W2P)
 GitHub : https://github.com/wannaphong/Thai_W2P

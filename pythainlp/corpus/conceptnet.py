@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Get data from ConceptNet API at http://conceptnet.io
 """

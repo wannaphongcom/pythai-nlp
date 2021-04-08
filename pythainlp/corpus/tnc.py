@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Thai National Corpus word frequency
 

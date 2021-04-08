@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Dictionary-based longest-matching Thai word segmentation. Implementation based
 on the code from Patorn Utenpattanun.

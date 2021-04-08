@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Convert number value to Thai read out
 

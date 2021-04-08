@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from typing import List, Tuple
 
 # defined strings for special characters

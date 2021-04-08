@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Spell checker, using Peter Norvig algorithm.
 Spelling dictionary can be customized.

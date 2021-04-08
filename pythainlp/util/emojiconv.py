@@ -1,4 +1,3 @@
-# -*- coding_utf-8 -*-
 """
 Convert emojis
 """
